@@ -1,14 +1,13 @@
-/**
- * file: DigitsSum.java
+/*
+ * File: DigitsSum.java
+ * Creator: Liam Healy
+ * course: CMPT 220L
+ * Assignment: Lab 1
+ * Due Date: 9/8/2016
+ * version: 1.8
  * 
- * course: CMPT 220
- * assignment: project 1
- * due date: August 30, 2003
- * version: 1.3
- * 
- * This file contains the declaration of the SinglyLinkedList abstract data
- * type.
- */
+ * This file contains a main method that adds the digits of a number it reads from the console.
+*/
 import java.util.Scanner;
 
 public class DigitsSum {
