@@ -1,3 +1,14 @@
+/**
+ * file: DigitsSum.java
+ * 
+ * course: CMPT 220
+ * assignment: project 1
+ * due date: August 30, 2003
+ * version: 1.3
+ * 
+ * This file contains the declaration of the SinglyLinkedList abstract data
+ * type.
+ */
 import java.util.Scanner;
 
 public class DigitsSum {
