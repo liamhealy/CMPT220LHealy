@@ -1,3 +1,13 @@
+/*
+ * File: Lab1.java
+ * Creator: Liam Healy
+ * course: CMPT 220L
+ * Assignment: Lab 1
+ * Due Date: 9/8/2016
+ * version: 1.8
+ * 
+ * This file contains a main method that outputs the word java in the console.
+*/
 import java.util.Scanner;
 
 public class Lab1 {
