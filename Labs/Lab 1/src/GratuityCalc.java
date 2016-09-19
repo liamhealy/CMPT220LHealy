@@ -12,6 +12,7 @@ import java.util.Scanner;
 
 public class GratuityCalc {
 
+  // == you are using tabs!!!
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		System.out.println("Enter the subtotal and a gratuity rate: ");

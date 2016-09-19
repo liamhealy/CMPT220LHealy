@@ -11,7 +11,7 @@
 import java.util.Scanner;
 
 public class DigitsSum {
-
+  // == you are using tabs!!!
 	public static void main(String[] args) {
 		System.out.println("Please enter a number between 0 and 1000: ");
 		Scanner input = new Scanner(System.in);
