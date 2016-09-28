@@ -1,3 +1,13 @@
+/**
+ * file: countAverage.java
+ * author: Liam Healy
+ * course: CMPT 220
+ * assignment: Lab 3
+ * due date: September 22nd, 2016
+ * version: 1.8
+ * 
+ * This file contains a do/while loop that counts the number of integers entered and their associations.
+ */
 import java.util.Scanner;
 
 public class countAverage {
