@@ -1,3 +1,13 @@
+/**
+ * file: Driver_lab3.java
+ * author: Liam Healy
+ * course: CMPT 220
+ * assignment: Lab 3
+ * due date: September 22nd, 2016
+ * version: 1.8
+ * 
+ * This file determines the distance between a set of points.
+ */
 import java.util.Scanner;
 public class Driver_lab3{
   public static void main(String[] args){
