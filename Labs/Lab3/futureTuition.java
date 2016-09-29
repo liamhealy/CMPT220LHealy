@@ -1,4 +1,13 @@
-
+/**
+ * file: futureTuition.java
+ * author: Liam Healy
+ * course: CMPT 220
+ * assignment: Lab 3
+ * due date: September 22nd, 2016
+ * version: 1.8
+ * 
+ * This file calculates the tuition of one year of school with a steady 5% increase over 10 years, plus the cost of four years afterwards.
+ */
 public class futureTuition {
   public static void main(String[] args){
     double tuition = 10000.0;
