@@ -1,5 +1,5 @@
 /**
- * file: countAverage.java
+ * file: addDigits.java
  * author: Liam Healy
  * course: CMPT 220
  * assignment: Lab 3
