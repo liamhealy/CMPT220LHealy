@@ -1,3 +1,13 @@
+/**
+ * file: countAverage.java
+ * author: Liam Healy
+ * course: CMPT 220
+ * assignment: Lab 3
+ * due date: September 22nd, 2016
+ * version: 1.8
+ * 
+ * This file contains a method sumDigits that determines the sum of the digits of a three-digit integer.
+ */
 import java.util.Scanner;
 
 public class addDigits {
