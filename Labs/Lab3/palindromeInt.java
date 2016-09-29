@@ -1,3 +1,13 @@
+/**
+ * file: palindromeInt.java
+ * author: Liam Healy
+ * course: CMPT 220
+ * assignment: Lab 3
+ * due date: September 22nd, 2016
+ * version: 1.8
+ * 
+ * This file determines whether a three-digit int is a palindrome or not.
+ */
 import java.util.Scanner;
 
 public class palindromeInt{
